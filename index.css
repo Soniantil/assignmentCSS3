@@ -1,0 +1,192 @@
+.main{
+
+    background-color: aqua;
+}
+.firstbox{
+    padding: 10px;
+    margin: 10px;
+    border: 5px solid red;
+    height: 120px;
+    width: 350px;
+    text-align: center;
+    font-size: 30px;
+    color: blue;
+    box-shadow: 5px 5px blueviolet;
+    text-shadow: 2px 2px red;
+    margin-left: 500px;
+}
+.oneportion{
+    display:block;
+    border: 5px solid green;
+    height: auto;
+    
+}
+.secondportion{
+   border: 5px solid green;
+   height: 600px;
+   
+   position: relative;
+
+
+}
+.second1{
+    background-color: white;
+    margin: 10px;
+    border-radius: 10px;
+    font-size: 25px ;
+    font-weight: bold;
+    text-align: center;
+    color: blueviolet;
+border: 5px solid red;
+padding: 10px;
+margin-right: 800px;
+position: absolute;
+height: 200px;
+width: 200px;
+top: 0px;
+left: 0px;
+color: ;
+box-shadow: 5px 5px blue;
+text-shadow: 2px 2px greenyellow;
+}
+.second2{
+    background-color: white;
+    position: absolute;
+    border-radius: 10px;
+    height: 200px;
+    width: 200px;
+    right: 50px;
+    top: 0px;
+border:5px solid  red;
+box-shadow: 5px 5px  blue;
+
+}
+.image{
+   padding: 10px; 
+margin: -30px;
+background-color: white;
+right: 50px;
+top: 0px;
+    position: absolute;
+margin-top: 10px;
+margin-bottom: 10px;
+    height: 150px;
+    width: 150px;
+}
+
+.second3{
+position: absolute;
+    font-size: 20px ;
+    font-weight: bold;
+    margin-left: 500px;
+    margin: 10px;
+    padding: 10px;
+ text-align: center;
+    color: blueviolet;
+    background-color: white;
+    font: bolder;
+    color: maroon;
+border: 5px  solid red;
+border-radius: 10px;
+height: 200px;
+width: 200px;
+left: 0px;
+bottom: 40px;
+color: ;
+box-shadow: 5px 5px blue;
+text-shadow: 2px 2px greenyellow;
+}
+.second4{
+    position: absolute;
+border-radius: 10px;
+    font-size: 20px ;
+    font-weight: bold;
+        color: blue;
+        right: 50px;
+        bottom: 40px;
+text-align: center;
+border:5px solid red;
+background-color: white;
+height: 200px;
+width: 200px;
+box-shadow: 5px 5px rgb(120, 7, 168);
+text-shadow: 2px 2px greenyellow;
+}
+#bttn{
+    background-color: red;
+}
+.seccond5{
+position: fixed;
+ text-align: center;
+    color: blueviolet;
+border: 5px  solid red;
+border-radius: 10px;
+height: 150px;
+width: 250px;
+background-color: chartreuse;
+display: flex;
+flex-wrap: nowrap;
+left:600px;
+margin-top: 300px;
+box-shadow: 5px 5px blue;   
+border-radius: 100px / 50px;
+}
+.seccond5{
+    font-weight: bolder;
+    font-size: larger;
+    padding-left: 20px;
+    padding-top: 10px;
+    display: inline-block;
+}
+.secpart{
+    padding-left: 40px;
+padding-top: 10px;
+display: inline-block;
+font-weight: bolder;
+}
+
+.thirdportion {
+
+    /*border: 5px solid green;*/
+    margin-left: 320px;
+    /*margin-right: 600px;*/
+    
+
+    
+}
+.heading{
+    padding-top: 20px;
+    font-size: 25px;
+    color: crimson;
+    background-color: rgb(128, 0, 0);
+}
+.fruit{
+    
+    text-align: center;
+    background-color: darkkhaki;
+    text-align: center;
+
+
+}
+.onetable{
+
+    height: 150px;
+    width: 200px;
+}
+.otheritem{
+    font-size: 25px;
+    color: crimson;
+    height: 35px;
+    width: 470px;
+    background-color: green;
+}
+.data{
+    text-align: center;
+ height: 250;   
+    background-color:darkkhaki;
+}
+.welcome{
+    font-size: 25px;
+    color: red;
+    background-color: green;
+}
